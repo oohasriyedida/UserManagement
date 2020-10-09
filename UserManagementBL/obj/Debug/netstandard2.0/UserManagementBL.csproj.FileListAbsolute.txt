@@ -1,0 +1,14 @@
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementBL.deps.json
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementBL.dll
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementBL.pdb
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.AssemblyInfoInputs.cache
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.AssemblyInfo.cs
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.csproj.CoreCompileInputs.cache
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.dll
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.pdb
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementDAL.dll
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementEntities.dll
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementDAL.pdb
+E:\UserManagementAPI\UserManagementBL\bin\Debug\netstandard2.0\UserManagementEntities.pdb
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.csprojAssemblyReference.cache
+E:\UserManagementAPI\UserManagementBL\obj\Debug\netstandard2.0\UserManagementBL.csproj.CopyComplete

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UserManagementDAL">
+      <HintPath>..\UserManagementDAL\bin\Debug\netstandard2.0\UserManagementDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="UserManagementEntities">
+      <HintPath>..\UserManagementDAL\bin\Debug\netstandard2.0\UserManagementEntities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
